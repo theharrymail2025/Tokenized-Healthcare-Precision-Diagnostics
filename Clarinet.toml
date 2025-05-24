@@ -10,8 +10,18 @@ path = 'contracts/patient-verification.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.result-verification]
+path = 'contracts/result-verification.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.test-protocol]
 path = 'contracts/test-protocol.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.treatment-recommendation]
+path = 'contracts/treatment-recommendation.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
